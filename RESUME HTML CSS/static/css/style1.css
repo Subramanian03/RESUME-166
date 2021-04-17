@@ -1,0 +1,37 @@
+body{
+  background-color: rgba(0, 140, 255, 0.404);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 50px;
+    line-height: 40px;
+    background-color: rgb(39, 194, 221);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  li{
+    float: left;
+  }
+  a{
+    display: block;
+    padding: 0 65px;
+    color: rgb(14, 5, 5);
+    text-decoration: none;
+  }
+  .CO{
+    color:rgb(252, 29, 13);
+  }
+  .CO h1{
+        font-size: 0.6cm;
+  }
+  p{
+    font-family: 'Times New Roman', Times, serif ;
+  }
+  .SK h2{
+    color: rgb(92, 4, 21);
+  }
